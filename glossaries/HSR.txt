@@ -1,1 +1,121 @@
+维护者：NauroraH
+版本号：1.0.0
+更新时间：2025-11-18
+
+
+词条
+
+//角色 四+主角
+Stelle：星
+Caelus：穹
+Pom-Pom：帕姆
+Sushang：素裳
+Tingyun：停云
+Qingque：青雀
+Hook：虎克
+Sampo：桑博
+Pela：佩拉
+Natasha：娜塔莎
+Serval：希露瓦
+Herta：黑塔
+Asta：艾丝妲
+Arlan：阿兰
+Dan Heng：丹恒
+March 7th：三月七
+Yukong：驭空
+Luka：卢卡
+Lynx：玲可
+Guinaifen：桂乃芬
+Hanya：寒鸦
+Xueyi：雪衣
+Misha：米沙
+Gallagher：加拉赫
+Moze：貊泽
+
+//五
+Bailu：白露
+Yanqing：彦卿
+Jing Yuan：景元
+Clara：克拉拉
+Gepard：杰帕德
+Seele：希儿
+Bronya：布洛妮娅
+Welt：瓦尔特
+Himeko：姬子
+Luocha：罗刹
+Silver Wolf：银狼
+Blade：刃
+Kafka：卡芙卡
+Fu Xuan：符玄
+Jingliu：镜流
+Topaz：托帕
+Argenti：银枝
+Huohuo：藿藿
+Dr.Ratio：真理医生
+Ruan Mei：阮梅
+Black Swan：黑天鹅
+Sparkle：花火
+Acheron：黄泉
+Aventurine：砂金
+Boothill：波提欧
+Robin：知更鸟
+Jade：翡翠
+Firefly：流萤
+Yunli：云璃
+Jiaoqiu：椒丘
+Lingsha：灵砂
+Feixiao：飞霄
+Rappa：乱破
+Sunday：星期日
+Fugue：忘归人
+Aglaea：阿格莱雅
+The Herta：黑塔
+Mydei：万敌
+Trbbie：缇宝
+Castorice：遐蝶
+Anaxa：那刻夏
+Hyacine：风堇
+Cipher：赛飞儿
+Phainon：白厄
+Cerydra：刻律德拉
+Hysilens：海瑟音
+Evernight：长夜月
+Cyrene：昔涟
+
+//其他人
+Phantylia：幻胧
+
+//组织和地点
+Jarilo-VI：雅利洛-VI
+Belobog：贝洛伯格
+Xianzhou Luofu = 仙舟 罗浮
+Xianzhou zhuming = 仙舟 朱明
+Xianzhou Yaoqing = 仙舟 曜青
+Xianzhou Yuque = 仙舟 玉阙
+Seat of Divine Foresight：神策府
+Penacony：匹诺康尼
+Interastral Peace Corporation：星际和平公司
+IPC：公司
+
+//其他
+Ambrosial Arbor：建木
+Curios：奇物
+
+
+//派别
+Astral Express = 星穹 列车
+Trailblaze：开拓
+Trailblazer：开拓者
+Stellaron Hunters：星核猎手
+Hunt：巡猎
+The Galaxy Ranger：巡海游侠
+Abundance：丰饶
+Intelligentsia Guild：博识学会
+Nihility：虚无
+
+
+通用词条
+
+
+禁翻词条
 
