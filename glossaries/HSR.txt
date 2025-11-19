@@ -1,6 +1,6 @@
 维护者：NauroraH
-版本号：1.0.0
-更新时间：2025-11-18
+版本号：1.0.1
+更新时间：2025-11-19
 
 
 词条
@@ -82,40 +82,156 @@ Hysilens：海瑟音
 Evernight：长夜月
 Cyrene：昔涟
 
-//其他人
-Phantylia：幻胧
+//地点
+Master Control Zone：主控舱段
+Supply Zone：支援舱段
+Seclusion Zone：禁闭舱段
+Storage Zone：收容舱段
+Base Zone：基座舱段
 
-//组织和地点
 Jarilo-VI：雅利洛-VI
 Belobog：贝洛伯格
+
 Xianzhou Luofu = 仙舟 罗浮
+Central Starskiff Haven：星槎海中枢
+Cloudford：流云渡
+Stargazer Navalia：迴星港
+Exalting Sanctum：长乐天
+Aurum Alley：金人巷
+Divination Commission：太卜司
+Artisanship Commission：工造司
+Fyxestroll Garden：绥园
+Alchemy Commission：丹鼎司
+Scalegorge Waterscape：麟渊境
+The Shackling Prison：幽囚狱
+Skysplitter：竞锋舰
+Seat of Divine Foresight：神策府
+Sky-Faring Commission：天舶司
+
 Xianzhou zhuming = 仙舟 朱明
 Xianzhou Yaoqing = 仙舟 曜青
 Xianzhou Yuque = 仙舟 玉阙
-Seat of Divine Foresight：神策府
+
 Penacony：匹诺康尼
+Golden Hour：黄金的时刻
+The Reverie：白日梦酒店
+Dewlight Pavilion：朝露公馆
+Clock Studios Theme Park：克劳克影视乐园
+Dreamfiux Reef：流梦礁
+Penacony Grand Theater：匹诺康尼大剧院
+Paperfold University College：折纸大学学院
+
+Amphoreus：翁法罗斯
+Okhema：奥赫玛
+Castrum Kremnos：悬锋城
+Janusopolis：雅努萨波利斯
+Grove of Epiphany：神悟树庭
+Dawncloud：黎明云涯
+Styxia：斯提克西亚
+Eye of Twilight：晨昏之眼
+Vortex of Genesis：创世涡心
+Aedes Elysiae：哀丽秘榭
+
+//命途
+Trailblaze：开拓
+Akivili：阿基维利
+Destruction：毁灭
+Nanook：纳努克
+Hunt：巡猎
+Lan：岚 
+Erudition：智识
+Nous：博识尊 
+Harmony同谐
+Xipe：希佩 
+Nihility：虚无
+IX：IX
+Preservation：存护 
+Qlipoth：克里珀 
+Abundance：丰饶
+Yaoshi：药师
+Voracity：贪饕
+Oroboros：奥博洛斯 
+Elation：欢愉
+Aha：阿哈
+Remembrance：记忆
+Fuli：浮黎
+Beauty：纯美
+Idrila：伊德莉拉
+Propagatior：繁育 
+Tayzzyronth：塔伊兹育罗斯
+Enigmata：神秘 
+Mythus：迷思 
+Equilibrium：均衡 
+HooH：互
+Finality：终末
+
+//派系
+Trailblazer：开拓者
+Astral Express = 星穹 列车
+Stellaron Hunters：星核猎手
+The Nameless：无名客
+Xianzhou Alliance：仙舟联盟
+The Galaxy Ranger：巡海游侠
+Self-Annihilator：自灭者
+Doctors of Chaos：混沌医师
+Device IX：第IX机关
+Denizens of Abundance：丰饶之民
+Elixir Seekers：求药使
+Antimatter Legion：反物质军团
+Lord Ravagers：绝灭大君
+The Family：家族
+Genius Society：天才俱乐部
+Intelligentsia Guild：博识学会
+AtaviSearch Forest：源究森林
+The Architects：筑城者
 Interastral Peace Corporation：星际和平公司
 IPC：公司
+Ten Stonehearts：石心十人
+The Swarm：虫群
+Garden of Recollection：流光忆庭
+Memokeeper：忆者
+Memosnatcher：窃忆者
+The Cremators：焚化工 
+Pure Child of Anasrava：无漏净子
+Mourning Actors：悲悼伶人
+Masked Fools：假面愚者
+Mirror Holders：揽镜人
+The Knights of Beauty：纯美骑士团
+History Fictionologists：虚构史学家
+The Riddlers：谜语人
+The Arbitrators：仲裁官
+Claretwheel Temple：丹轮寺 
+Beyond the Sky Choir：天外合唱班
+Creed Exequy：葬仪知宾
 
-//其他
+//专有名词
+Path：命途
 Ambrosial Arbor：建木
 Curios：奇物
+Pathstrider：命途行者
+Stellaron：星核
+Swarm Disaster：寰宇蝗灾
+Chrysos Heirs：黄金裔
+Simulated Universe：模拟宇宙
+catcake：猫糕
 
-
-//派别
-Astral Express = 星穹 列车
-Trailblaze：开拓
-Trailblazer：开拓者
-Stellaron Hunters：星核猎手
-Hunt：巡猎
-The Galaxy Ranger：巡海游侠
-Abundance：丰饶
-Intelligentsia Guild：博识学会
-Nihility：虚无
+//人物
+Screwllum：螺丝咕姆
+Stephen：斯蒂芬
+Polka Kakamond = 波尔卡·卡卡目
+Dr. Primitive：原始博士
+Peppy：佩佩
+Phantylia：幻胧
+Zephyro：焚风
+Asat Pramad：归寂
+Celenova：星啸
+Irontomb：铁墓
+Luxbane：光逝
+Archforger：铸王
 
 
 通用词条
-
+Emanator：令使
 
 禁翻词条
 
