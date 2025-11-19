@@ -1,5 +1,5 @@
 维护者：NauroraH
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-11-19
 
 
@@ -178,7 +178,7 @@ Device IX：第IX机关
 Denizens of Abundance：丰饶之民
 Elixir Seekers：求药使
 Antimatter Legion：反物质军团
-Lord Ravagers：绝灭大君
+Lord Ravager：绝灭大君
 The Family：家族
 Genius Society：天才俱乐部
 Intelligentsia Guild：博识学会
