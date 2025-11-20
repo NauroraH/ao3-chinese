@@ -1,6 +1,6 @@
 维护者：NauroraH
-版本号：1.0.2
-更新时间：2025-11-19
+版本号：1.0.3
+更新时间：2025-11-20
 
 
 词条
@@ -168,22 +168,22 @@ Finality：终末
 //派系
 Trailblazer：开拓者
 Astral Express = 星穹 列车
-Stellaron Hunters：星核猎手
-The Nameless：无名客
+Stellaron Hunter：星核猎手
+Nameless：无名客
 Xianzhou Alliance：仙舟联盟
-The Galaxy Ranger：巡海游侠
+Galaxy Ranger：巡海游侠
 Self-Annihilator：自灭者
 Doctors of Chaos：混沌医师
 Device IX：第IX机关
 Denizens of Abundance：丰饶之民
-Elixir Seekers：求药使
+Elixir Seeker：求药使
 Antimatter Legion：反物质军团
 Lord Ravager：绝灭大君
 The Family：家族
 Genius Society：天才俱乐部
 Intelligentsia Guild：博识学会
 AtaviSearch Forest：源究森林
-The Architects：筑城者
+The Architect：筑城者
 Interastral Peace Corporation：星际和平公司
 IPC：公司
 Ten Stonehearts：石心十人
@@ -191,15 +191,15 @@ The Swarm：虫群
 Garden of Recollection：流光忆庭
 Memokeeper：忆者
 Memosnatcher：窃忆者
-The Cremators：焚化工 
+Cremator：焚化工 
 Pure Child of Anasrava：无漏净子
-Mourning Actors：悲悼伶人
-Masked Fools：假面愚者
-Mirror Holders：揽镜人
+Mourning Actor：悲悼伶人
+Masked Fool：假面愚者
+Mirror Holder：揽镜人
 The Knights of Beauty：纯美骑士团
-History Fictionologists：虚构史学家
-The Riddlers：谜语人
-The Arbitrators：仲裁官
+History Fictionologist：虚构史学家
+The Riddler：谜语人
+The Arbitrator：仲裁官
 Claretwheel Temple：丹轮寺 
 Beyond the Sky Choir：天外合唱班
 Creed Exequy：葬仪知宾
@@ -213,7 +213,7 @@ Stellaron：星核
 Swarm Disaster：寰宇蝗灾
 Chrysos Heirs：黄金裔
 Simulated Universe：模拟宇宙
-catcake：猫糕
+Catcake：猫糕
 
 //人物
 Screwllum：螺丝咕姆
