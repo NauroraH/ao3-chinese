@@ -1,6 +1,6 @@
 维护者：NauroraH
-版本号：1.0.3
-更新时间：2025-11-20
+版本号：1.0.4
+更新时间：2025-11-27
 
 
 词条
@@ -51,7 +51,7 @@ Jingliu：镜流
 Topaz：托帕
 Argenti：银枝
 Huohuo：藿藿
-Dr.Ratio：真理医生
+Veritas Ratio = 维里塔斯 拉帝奥
 Ruan Mei：阮梅
 Black Swan：黑天鹅
 Sparkle：花火
@@ -164,6 +164,7 @@ Mythus：迷思
 Equilibrium：均衡 
 HooH：互
 Finality：终末
+Terminus：末王
 
 //派系
 Trailblazer：开拓者
@@ -220,6 +221,7 @@ Screwllum：螺丝咕姆
 Stephen：斯蒂芬
 Polka Kakamond = 波尔卡·卡卡目
 Dr. Primitive：原始博士
+Yu Qingtu：余清涂
 Peppy：佩佩
 Phantylia：幻胧
 Zephyro：焚风
