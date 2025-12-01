@@ -1,6 +1,6 @@
 维护者：NauroraH
-版本号：1.0.5
-更新时间：2025-11-28
+版本号：1.0.6
+更新时间：2025-12-1
 
 
 词条
@@ -164,7 +164,7 @@ Remembrance：记忆
 Fuli：浮黎
 Beauty：纯美
 Idrila：伊德莉拉
-Propagatior：繁育 
+Propagation：繁育 
 Tayzzyronth：塔伊兹育罗斯
 Enigmata：神秘 
 Mythus：迷思 
