@@ -1,6 +1,6 @@
 维护者：NauroraH
-版本号：1.0.6
-更新时间：2025-12-1
+版本号：1.0.7
+更新时间：2026-6-8
 
 
 词条
@@ -81,6 +81,11 @@ Cerydra：刻律德拉
 Hysilens：海瑟音
 Evernight：长夜月
 Cyrene：昔涟
+The Dahlia：大丽花
+Yao Guang：爻光
+Sparxie：火花
+Ashveil：不死途
+Evanescia：绯英
 
 //地点
 Master Control Zone：主控舱段
@@ -137,9 +142,22 @@ Eye of Twilight：晨昏之眼
 Vortex of Genesis：创世涡心
 Aedes Elysiae：哀丽秘榭
 
+Planarcadia：二相乐园
+Duomension City：二维市
+Graphia Academy：绘世学院
+Dovebrook District：鸽川区
+Pearluxe Tower：珠星大厦
+Lookout Cloud Station：观览云岛站
+Seafeld City：海原市
+Seafeld TV Tower：海原电视塔
+Phantasmoon Courtyard：幻月秘庭
+"World's End" Tavern：世界尽头酒馆
+Inkford Hermitage：渡画泉隐
+
 //命途
 Aeon：星神
 Path：命途
+Pathstrider：命途行者
 Trailblaze：开拓
 Akivili：阿基维利
 Destruction：毁灭
@@ -214,15 +232,15 @@ Creed Exequy：葬仪知宾
 //专有名词
 Ambrosial Arbor：建木
 Curio：奇物
-Pathstrider：命途行者
 Stellaron：星核
 Swarm Disaster：寰宇蝗灾
 Chrysos Heirs：黄金裔
 Simulated Universe：模拟宇宙
-Catcake：猫糕
 Cloud Knight：云骑
 
 //人物
+Zandar One Kuwabara = 赞达尔·壹·桑原
+Lygus：来古士
 Screwllum：螺丝咕姆
 Stephen：斯蒂芬
 Polka Kakamond = 波尔卡·卡卡目
@@ -239,6 +257,7 @@ Archforger：铸王
 
 
 通用词条
+Catcake：猫糕
 Emanator：令使
 
 禁翻词条
