@@ -1,6 +1,6 @@
 维护者：NauroraH
-版本号：1.0.7
-更新时间：2026-6-8
+版本号：1.0.8
+更新时间：2026-9-27
 
 
 词条
@@ -239,7 +239,7 @@ Simulated Universe：模拟宇宙
 Cloud Knight：云骑
 
 //人物
-Zandar One Kuwabara = 赞达尔·壹·桑原
+Zandar Kuwabara = 赞达尔·桑原
 Lygus：来古士
 Screwllum：螺丝咕姆
 Stephen：斯蒂芬
